@@ -1,2 +1,11 @@
 # Speech-Summarization
-Speech summarization techniques take human speech as input and then output an abridged version as text or speech. It seeks to identify the most important content within human speech and then generate a condensed form.
+Speech summarization techniques take human speech as input and then output an abridged version as text or speech. It seeks to identify the most important content within human speech and then generate a condensed form.Speech summarization has applications in many domains from information technology to health care, for example improving speech archives or reducing clinical documentation burden.  Summarized speech should also be more understandable than a direct transcript of the speech, as it excludes the breaks and irregularities, as well as the repairs or repetitions that are common in speech. The steady improvement in automatic speech recognition accuracy, audio capture quality, and the increased popularity of natural language as a computer interface have underpinned the recent growth in interest for speech summarization methods. In healthcare, speech summarization has the potential to create a new generation of digital scribes (systems that generate clinical records from spoken speech) and conversational agents which can interact with patients. A speech summarization system takes speech as its input and generates a summary as its output.
+Theory - Speech is the most frequent mode of communication, with the majority of the world's population using it to communicate. The basic function of a speech
+recognition system is to convert spoken languages to text. Speech recognition systems are used in a variety of ways in real life. Apple SIRI, for example, recognizes speech and converts it into text. As images and videos, sound is also an Analog signal that humans perceive through sensory organs.This information must be stored as digital signals and evaluated by software before it can be consumed by machines. The following two processes are involved in the analog-to-digital conversion:
+1. Sampling: It is a procedure used to convert a time-varying (changing with
+time) signal s(t) to a discrete progression of real numbers x(n). Sampling period
+(Ts) is a term that defines the interval between two successive discrete samples.
+2. Quantization: This is the process of replacing every real number generated
+by sampling with an approximation to obtain a finite precision (defined within a
+range of bits).
+
